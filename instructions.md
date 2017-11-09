@@ -3,6 +3,7 @@ bowling game.
 You have the freedom to define the architecture of the API and how its endpoints will look.
 Main Requirements:
 The API should be written using Ruby on Rails. In addition, it should provide the following:
+
 ● A way to start a new bowling game;
 ● A way to input the number of pins knocked down by each ball;
 ● A way to output the current game score (score for each frame and total score).
